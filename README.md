@@ -11,8 +11,8 @@ There are 2 subsection
 
 ## Author
 
-- นายพีรพล สุดภู่ทอง ( @Nepumi-Jr )
-- นายเมธี ยิ่งยงวัฒนกิจ ( @TBBdlz )
+- นายพีรพล สุดภู่ทอง ([@Nepumi-Jr](https://github.com/Nepumi-Jr))
+- นายเมธี ยิ่งยงวัฒนกิจ ([@TBBdlz](https://github.com/TBBdlz))
 
 ## Team Members
 
