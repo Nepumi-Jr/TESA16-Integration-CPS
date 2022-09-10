@@ -4,7 +4,7 @@ This **GUI** program will receive a `MQTT` data and then convert into `ROS` and 
 
 Other than converting, It can generate and simulate the `ROS` Data such as set an rotation angle, gestures
 
-### THE MAIN FILE TO RUN FILE IS `mqttAndRosController.mlapp`
+### THE MAIN FILE TO RUN IS `mqttAndRosController.mlapp`
 
 ## noted
 

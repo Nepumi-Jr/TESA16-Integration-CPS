@@ -9,4 +9,4 @@ This include simulation world, animating robot arm, convert angle data to positi
 
 The main file `mainROS.m` will call `THE_VERY_REAL.sfx` and wait for ROS Command. when it receive a `ROS` data, it will call `THE_VERY_REAL.sfx` to show respond in Simulation world.
 
-### THE MAIN FILE TO RUN FILE IS `mainROS.m`
+### THE MAIN FILE TO RUN IS `mainROS.m`
