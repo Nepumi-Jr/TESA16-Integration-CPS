@@ -7,7 +7,7 @@ This Repo is the Cyber Physical System section which handling the data from glov
 There are 2 subsection
 
 1. [**MQTT2ROS**](/MQTT2ROS/) : which convert from mqtt to ROS
-2. [**RobotHandSimulator**](<(/RobotHandSimulator/)>) : use ROS Command to respond in simulation world
+2. [**RobotHandSimulator**](/RobotHandSimulator/) : use ROS Command to respond in simulation world
 
 ## Author
 
